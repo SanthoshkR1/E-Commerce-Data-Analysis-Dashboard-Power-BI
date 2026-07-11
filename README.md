@@ -82,19 +82,7 @@ The dashboard helps business users monitor KPIs and make data-driven decisions.
 - Date Slicer
 - Payment Mode Slicer
 
----
-
-## 📁 Files Included
-
 ```
-📦 powerbi-ecommerce-sales-dashboard
-│
-├── E-Commerce Dashboard.pbix
-├── dashboard.png
-├── dataset.csv
-└── README.md
-```
-
 ---
 
 ## 📚 Skills Demonstrated
