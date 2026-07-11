@@ -122,7 +122,8 @@ The dashboard helps business users monitor KPIs and make data-driven decisions.
 
 ## 📸 Dashboard
 
-<img width="100%" src="dashboard.png">
+<img width="1323" height="733" alt="Screenshot 2026-07-11 113845" src="https://github.com/user-attachments/assets/00af968d-d893-4855-8c09-8b27f00844c7" />
+
 
 ---
 
