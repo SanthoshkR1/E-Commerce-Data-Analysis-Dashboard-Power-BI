@@ -109,24 +109,8 @@ The dashboard helps business users monitor KPIs and make data-driven decisions.
 ---
 
 ## 📸 Dashboard
+<img width="1323" height="733" alt="Screenshot 2026-07-11 113845" src="https://github.com/user-attachments/assets/b46810d4-0e41-4b15-874c-dc2650961e01" />
 
-<img width="1323" height="733" alt="Screenshot 2026-07-11 113845" src="https://github.com/user-attachments/assets/00af968d-d893-4855-8c09-8b27f00844c7" />
-
-
----
-
-## 👨‍💻 Author
-
-**Santhosh K R**
-
-- MSc Information Technology (AI & ML)
-- Aspiring Data Analyst
-- Skilled in SQL, Power BI, Excel, Python
-
-### Connect with me
-
-- LinkedIn: https://linkedin.com/in/your-linkedin
-- GitHub: https://github.com/your-github
 
 ---
 
